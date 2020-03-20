@@ -77,7 +77,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 400px;
-    background:  url('../img/showcase.jpg') no-repeat 0 -400px;
+    background:  url('https://github.com/sahilgurav19/Responsive-website/blob/gh-pages/showcase.jpg') no-repeat 0 -400px;
     text-align: center;
     color: #ffffff;
 }
